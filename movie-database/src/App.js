@@ -8,11 +8,6 @@ import TopRated from "./pages/movie/TopRated";
 import Layout from "./Layout";
 
 function App() {
-  /**
-   * Menampilkan Halaman Home.
-   * Tag div bisa diganti dengan tag <>.
-   * Tag <> adalah React fragment
-   */
   return (
     <>
     <Layout>
